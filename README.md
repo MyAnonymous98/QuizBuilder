@@ -1,5 +1,5 @@
 # QuizBuilder
-Simple web application to build quizzes
+Simple Django built web application to build quizzes
 
 1. Install django in your python directory (version 3.6+) via 'pip install django'
 2. Install crispy forms in the same directory via 'pip install django-crispy-forms'
